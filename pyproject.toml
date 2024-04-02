@@ -8,8 +8,8 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.9"
 pandas = "^2.2.1"
-matplotlib = "^3.8.3"
-numpy = "^1.26.4"
+matplotlib = "^3.7.1"
+numpy = "^1.25.2"
 
 
 [build-system]
