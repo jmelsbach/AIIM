@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "aiim"
+version = "0.1.0"
+description = "Repository for the Artificial Intelligence & Information Management Course"
+authors = ["Johannes Melsbach <github@melsbach.org>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pandas = "^2.2.1"
+matplotlib = "^3.8.3"
+numpy = "^1.26.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
