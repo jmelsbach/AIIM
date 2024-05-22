@@ -13,7 +13,5 @@ Official Repo for the Artificial Intelligence &amp; Information Management Cours
 | #  | Title          | Colab    |
 |----|----------------|----------|
 | 1  | E1 - Neural Networks  |    <a target="_blank" href="https://colab.research.google.com/github/jmelsbach/AIIM/blob/main/notebooks/exercises/E01%20-%20Neural%20Networks.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>      |
-
-<a target="_blank" href="https://colab.research.google.com/github/jmelsbach/AIIM/blob/main/notebooks/exercises/E02%20-%20Word2Vec.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+| 2  | E1 - Word2Vec  |    <a target="_blank" href="https://colab.research.google.com/github/jmelsbach/AIIM/blob/main/notebooks/exercises/E02%20-%20Word2Vec.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
+| 3  | E3 - CNNs  |  <a target="_blank" href="https://colab.research.google.com/github/jmelsbach/AIIM/blob/main/notebooks/exercises/E03%20-%20CNNs.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
